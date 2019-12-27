@@ -2,3 +2,4 @@ project
 
 -program prakerin 4bulan
 -target bisa buat web sendiri
+-expert laravel
